@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="msg_welcome">Welcome to Droidgato!</string>
+    <string name="app_name">Droidgato</string>
+    <string name="msg_new_game">New Game</string>
+    <string name="msg_continue">Continue</string>
+    <string name="msg_quit">Quit</string>
+
+</resources>
